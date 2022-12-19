@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 <div dsplay="inline-block">
  
- <h1 align="left">Olá, me chamo Felipy Santos 👋</h1>
+ <h1 align="left">Olá, eu sou o Felipy 👋</h1>
 
 <a href="https://instagram.com/felipy_saints/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href = "mailto:felipy.sgomes@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
