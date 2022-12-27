@@ -26,6 +26,7 @@ Here are some ideas to get you started:
 <a href = "mailto:felipy.sgomes@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/felipy-santos" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
+<!-- ![github-svgrepo-com (1)](https://user-images.githubusercontent.com/72530197/209687488-7f7c402a-de01-419a-a9d6-4579e497f338.svg) -->
 
 </br>
 </br>
@@ -47,9 +48,9 @@ Tenho 23 anos, atualmente moro em Betim/MG, sou dev fullstack apaixonado por pro
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" title = "Typescript" /></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" title = "Node" /></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title = "React" /></code>
-<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" title = "Next" /></code>
+<code><img width="40px" src="https://user-images.githubusercontent.com/72530197/209687233-6809d853-e302-4817-949e-be9d7fb69a71.svg" title = "Next" /></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title = "Git"/></code>
-<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title = "Github"/></code>
+<code><img width="40px" src="https://user-images.githubusercontent.com/72530197/209687488-7f7c402a-de01-419a-a9d6-4579e497f338.svg" title = "Github"/></code>
 
 
 </br>
