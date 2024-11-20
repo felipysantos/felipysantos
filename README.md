@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 
 ## Hello, Devs!!
 
-Tenho 23 anos, atualmente moro em Betim/MG, sou dev fullstack apaixonado por programação e RPG. Aspirante a caçador Pokémon, sigo procurando vários do tipo bugs pelos códigos, me aventurando nesse mundo cheio de possibilades e conhecimentos. :rocket: :rocket: 
+Tenho 24 anos, atualmente moro em Betim/MG, sou dev fullstack apaixonado por programação e RPG. Aspirante a caçador Pokémon, sigo procurando vários do tipo bugs pelos códigos, me aventurando nesse mundo cheio de possibilades e conhecimentos. :rocket: :rocket: 
 
 <p align="left">
   <img src="https://media.tenor.com/kRGAiAITB7gAAAAC/pokemon-ash.gif" width="350">
