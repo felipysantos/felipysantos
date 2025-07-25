@@ -6,7 +6,6 @@
  
 <h1 align="left">Saudações, eu sou o Felipy 👋</h1>
 
-<a href="https://instagram.com/felipy_saints/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 <a href = "mailto:felipy.sgomes@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 <a href="https://www.linkedin.com/in/felipy-santos" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </div>
@@ -20,6 +19,7 @@ Sou um desenvolvedor fullstack de Betim/MG, 25 anos, apaixonado por tecnologia, 
 Viajo entre reinos do front-end e do back-end conjurando soluções com:
 
 - **Vue.js**, **React**, **Angular** e **Next.js**
+- **Expo Apps** e **React Native**
 - **NestJS**, **Node.js** e **Ruby on Rails**
 - **Prisma**, **TypeORM**, **PostgreSQL** e **MongoDB**
 
@@ -56,7 +56,7 @@ Além do código, sou um verdadeiro Nintendista, fã de RPGs e movido a café �
 - ☕ Café e **RPG** movem minha energia;
 - 🧙‍♂️ Estou sempre em busca de novos desafios em sistemas reais com tecnologias modernas.
 
-📫 Quer falar comigo? Me chama no [Instagram](https://www.instagram.com/felipy_saints) ou no [LinkedIn](https://www.linkedin.com/in/felipy-santos/).  
+📫 Quer falar comigo? Me chama no [LinkedIn](https://www.linkedin.com/in/felipy-santos/).  
 Conheça também alguns dos feitiços (projetos) que deixei nos repositórios!
 
 ---
